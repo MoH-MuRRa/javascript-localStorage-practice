@@ -7,7 +7,7 @@ This is a simple code that let you choose one of the 4 available color options f
 
 ## notes
 
-#### some of the key concepts that you need to understand is 
+#### some of the key concepts that you need to understand are:
 
 #### higher order functions
 #### document object model(DOM)
